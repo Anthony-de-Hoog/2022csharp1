@@ -1,0 +1,14 @@
+C:\ma\bewijzenmap\p1.3\prog\CSharpOpdrachten\CSharpOpdrachten\bin\Debug\net8.0\CSharpOpdrachten.exe
+C:\ma\bewijzenmap\p1.3\prog\CSharpOpdrachten\CSharpOpdrachten\bin\Debug\net8.0\CSharpOpdrachten.deps.json
+C:\ma\bewijzenmap\p1.3\prog\CSharpOpdrachten\CSharpOpdrachten\bin\Debug\net8.0\CSharpOpdrachten.runtimeconfig.json
+C:\ma\bewijzenmap\p1.3\prog\CSharpOpdrachten\CSharpOpdrachten\bin\Debug\net8.0\CSharpOpdrachten.dll
+C:\ma\bewijzenmap\p1.3\prog\CSharpOpdrachten\CSharpOpdrachten\bin\Debug\net8.0\CSharpOpdrachten.pdb
+C:\ma\bewijzenmap\p1.3\prog\CSharpOpdrachten\CSharpOpdrachten\obj\Debug\net8.0\CSharpOpdrachten.GeneratedMSBuildEditorConfig.editorconfig
+C:\ma\bewijzenmap\p1.3\prog\CSharpOpdrachten\CSharpOpdrachten\obj\Debug\net8.0\CSharpOpdrachten.AssemblyInfoInputs.cache
+C:\ma\bewijzenmap\p1.3\prog\CSharpOpdrachten\CSharpOpdrachten\obj\Debug\net8.0\CSharpOpdrachten.AssemblyInfo.cs
+C:\ma\bewijzenmap\p1.3\prog\CSharpOpdrachten\CSharpOpdrachten\obj\Debug\net8.0\CSharpOpdrachten.csproj.CoreCompileInputs.cache
+C:\ma\bewijzenmap\p1.3\prog\CSharpOpdrachten\CSharpOpdrachten\obj\Debug\net8.0\CSharpOpdrachten.dll
+C:\ma\bewijzenmap\p1.3\prog\CSharpOpdrachten\CSharpOpdrachten\obj\Debug\net8.0\refint\CSharpOpdrachten.dll
+C:\ma\bewijzenmap\p1.3\prog\CSharpOpdrachten\CSharpOpdrachten\obj\Debug\net8.0\CSharpOpdrachten.pdb
+C:\ma\bewijzenmap\p1.3\prog\CSharpOpdrachten\CSharpOpdrachten\obj\Debug\net8.0\CSharpOpdrachten.genruntimeconfig.cache
+C:\ma\bewijzenmap\p1.3\prog\CSharpOpdrachten\CSharpOpdrachten\obj\Debug\net8.0\ref\CSharpOpdrachten.dll

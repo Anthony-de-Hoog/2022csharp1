@@ -1,0 +1,14 @@
+C:\ma\bewijzenmap\p1.3\prog\CSharpOpdrachten\ProjectAddOpdracht\bin\Debug\net8.0\ProjectAddOpdracht.exe
+C:\ma\bewijzenmap\p1.3\prog\CSharpOpdrachten\ProjectAddOpdracht\bin\Debug\net8.0\ProjectAddOpdracht.deps.json
+C:\ma\bewijzenmap\p1.3\prog\CSharpOpdrachten\ProjectAddOpdracht\bin\Debug\net8.0\ProjectAddOpdracht.runtimeconfig.json
+C:\ma\bewijzenmap\p1.3\prog\CSharpOpdrachten\ProjectAddOpdracht\bin\Debug\net8.0\ProjectAddOpdracht.dll
+C:\ma\bewijzenmap\p1.3\prog\CSharpOpdrachten\ProjectAddOpdracht\bin\Debug\net8.0\ProjectAddOpdracht.pdb
+C:\ma\bewijzenmap\p1.3\prog\CSharpOpdrachten\ProjectAddOpdracht\obj\Debug\net8.0\ProjectAddOpdracht.GeneratedMSBuildEditorConfig.editorconfig
+C:\ma\bewijzenmap\p1.3\prog\CSharpOpdrachten\ProjectAddOpdracht\obj\Debug\net8.0\ProjectAddOpdracht.AssemblyInfoInputs.cache
+C:\ma\bewijzenmap\p1.3\prog\CSharpOpdrachten\ProjectAddOpdracht\obj\Debug\net8.0\ProjectAddOpdracht.AssemblyInfo.cs
+C:\ma\bewijzenmap\p1.3\prog\CSharpOpdrachten\ProjectAddOpdracht\obj\Debug\net8.0\ProjectAddOpdracht.csproj.CoreCompileInputs.cache
+C:\ma\bewijzenmap\p1.3\prog\CSharpOpdrachten\ProjectAddOpdracht\obj\Debug\net8.0\ProjectAddOpdracht.dll
+C:\ma\bewijzenmap\p1.3\prog\CSharpOpdrachten\ProjectAddOpdracht\obj\Debug\net8.0\refint\ProjectAddOpdracht.dll
+C:\ma\bewijzenmap\p1.3\prog\CSharpOpdrachten\ProjectAddOpdracht\obj\Debug\net8.0\ProjectAddOpdracht.pdb
+C:\ma\bewijzenmap\p1.3\prog\CSharpOpdrachten\ProjectAddOpdracht\obj\Debug\net8.0\ProjectAddOpdracht.genruntimeconfig.cache
+C:\ma\bewijzenmap\p1.3\prog\CSharpOpdrachten\ProjectAddOpdracht\obj\Debug\net8.0\ref\ProjectAddOpdracht.dll
